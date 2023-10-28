@@ -1,1 +1,3 @@
-# Laboratorio3_2do2023RRecuperatorioPPQuirozEsteban
+# Laboratorio3_2do2023
+Recuperatorio Primer Parcial Quiroz Esteban
+
