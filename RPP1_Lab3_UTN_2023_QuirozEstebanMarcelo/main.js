@@ -360,9 +360,9 @@ const addInputByDefault = (initialValues) => {
 
   if (initialValues !== undefined) {
     const selectTypeOfPerson = $("dll-type-person");
-    //selectTypeOfPerson.value =
-      //initialValues instanceof Villano ? "villano" : "heroe";
-    //selectTypeOfPerson.disabled = true;
+    selectTypeOfPerson.value =
+      initialValues instanceof Villano ? "villano" : "heroe";
+    selectTypeOfPerson.disabled = true;
   } else {
     generateIdAndDisableField();
   }
